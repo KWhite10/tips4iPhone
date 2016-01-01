@@ -35,7 +35,7 @@ Opening app and entering amount:
 
 Adjusting the slider updates the total and tip in real time:
 
-![gif2](/Gifs/Changing Tip %.gif?raw=true)
+![gif2](/Gifs/Changing Tip Percent.gif?raw=true)
 
 Adjusting the settings menu creates defaults that the main screen will default to on return.
 
