@@ -51,7 +51,7 @@ Also at one point I deleted the segmented button which caused linking errors tha
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Kasey White]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -64,7 +64,3 @@ Also at one point I deleted the segmented button which caused linking errors tha
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-
-
-Opening the app automatically prompts the keyboard and 
